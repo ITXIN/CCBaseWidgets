@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'CCBaseWidegits_Example' do
+  pod 'CCBaseWidegits', :path => '../'
+
+  target 'CCBaseWidegits_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

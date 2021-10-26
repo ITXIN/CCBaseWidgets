@@ -1,0 +1,16 @@
+PODS:
+  - CCBaseWidegits (0.1.0)
+
+DEPENDENCIES:
+  - CCBaseWidegits (from `../`)
+
+EXTERNAL SOURCES:
+  CCBaseWidegits:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCBaseWidegits: cbcf4a3168cb0ea93b01eb5394269bb213621efe
+
+PODFILE CHECKSUM: ca5b0fa5c24c804c0aaaccab72a7caee868ae2c9
+
+COCOAPODS: 1.10.1

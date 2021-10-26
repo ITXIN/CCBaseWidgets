@@ -1,0 +1,6 @@
+framework module Pods_CCBaseWidegits_Tests {
+  umbrella header "Pods-CCBaseWidegits_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
