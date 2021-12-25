@@ -10,7 +10,7 @@
 #endif
 #endif
 
-#import "UIImage+SGHelper.h"
+#import "CCHeader.h"
 #import "UIImage+SGHelper.h"
 
 FOUNDATION_EXPORT double CCBaseWidegitsVersionNumber;
