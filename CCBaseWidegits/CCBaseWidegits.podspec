@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CCBaseWidegits'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'A short description of CCBaseWidegits.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'git@github.com:ITXIN/CCSpecss'
+  s.homepage         = 'git@github.com:ITXIN/CCBaseWidgets'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'apple1' => 'liyaqing_it@126.com' }
-  s.source           = { :git => 'git@github.com:ITXIN/CCSpecss.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:ITXIN/CCBaseWidgets.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
