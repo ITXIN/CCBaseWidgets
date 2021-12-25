@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CCBaseWidegits'
-  s.version          = '0.1.6'
+  s.version          = '0.1.7'
   s.summary          = 'A short description of CCBaseWidegits.'
 
 # This description is used to generate tags and improve search results.
@@ -31,6 +31,10 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'CCBaseWidegits/Classes/**/*'
+  
+  s.subspec 'Category' do |cat|
+      cat.source_files = 'CCBaseWidegits/Classes/Category/*'
+    end
   
   # s.resource_bundles = {
   #   'CCBaseWidegits' => ['CCBaseWidegits/Assets/*.png']

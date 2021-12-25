@@ -7,7 +7,7 @@
 //
 
 #import "CCViewController.h"
-
+#import "UIImage+SGHelper.h"
 @interface CCViewController ()
 
 @end

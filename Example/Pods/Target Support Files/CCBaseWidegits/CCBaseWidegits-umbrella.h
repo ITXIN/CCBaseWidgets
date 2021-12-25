@@ -11,6 +11,7 @@
 #endif
 
 #import "UIImage+SGHelper.h"
+#import "UIImage+SGHelper.h"
 
 FOUNDATION_EXPORT double CCBaseWidegitsVersionNumber;
 FOUNDATION_EXPORT const unsigned char CCBaseWidegitsVersionString[];
