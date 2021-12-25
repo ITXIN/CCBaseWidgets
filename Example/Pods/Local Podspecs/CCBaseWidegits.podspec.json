@@ -1,6 +1,6 @@
 {
   "name": "CCBaseWidegits",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A short description of CCBaseWidegits.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "git@github.com:ITXIN/CCBaseWidgets",
@@ -13,12 +13,13 @@
   },
   "source": {
     "git": "git@github.com:ITXIN/CCBaseWidgets.git",
-    "tag": "0.1.8"
+    "tag": "0.1.9"
   },
   "platforms": {
     "ios": "9.0"
   },
   "source_files": "CCBaseWidegits/Classes/CCHeader.h",
+  "public_header_files": "CCBaseWidegits/Classes/CCHeader.h",
   "subspecs": [
     {
       "name": "Category",

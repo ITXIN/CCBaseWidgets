@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CCBaseWidegits'
-  s.version          = '0.1.8'
+  s.version          = '0.1.9'
   s.summary          = 'A short description of CCBaseWidegits.'
 
 # This description is used to generate tags and improve search results.
@@ -31,6 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'CCBaseWidegits/Classes/CCHeader.h'
+  s.public_header_files = 'CCBaseWidegits/Classes/CCHeader.h'
   
   s.subspec 'Category' do |ss|
       ss.source_files = 'CCBaseWidegits/Classes/Category/*'
