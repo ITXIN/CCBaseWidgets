@@ -1,9 +1,9 @@
 {
   "name": "CCBaseWidegits",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A short description of CCBaseWidegits.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "git@github.com:ITXIN/CCBaseWidgets.git",
+  "homepage": "https://github.com/ITXIN/CCBaseWidgets",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "apple1": "liyaqing_it@126.com"
   },
   "source": {
-    "git": "git@github.com:ITXIN/CCBaseWidgets.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/ITXIN/CCBaseWidgets.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "9.0"
