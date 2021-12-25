@@ -1,6 +1,6 @@
 {
   "name": "CCBaseWidegits",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A short description of CCBaseWidegits.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "git@github.com:ITXIN/CCBaseWidgets",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "git@github.com:ITXIN/CCBaseWidgets.git",
-    "tag": "0.1.5"
+    "tag": "0.1.6"
   },
   "platforms": {
     "ios": "9.0"

@@ -1,5 +1,5 @@
 PODS:
-  - CCBaseWidegits (0.1.5)
+  - CCBaseWidegits (0.1.6)
 
 DEPENDENCIES:
   - CCBaseWidegits (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CCBaseWidegits: c9eca94fb7bbdcbaddbc996e789cfc45a9be3738
+  CCBaseWidegits: b99b4a3b6961b93abb5d4cdbfb9744868333040e
 
 PODFILE CHECKSUM: ca5b0fa5c24c804c0aaaccab72a7caee868ae2c9
 
